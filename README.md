@@ -1,5 +1,4 @@
 # SpringStudy
-스프링 공부. SpringStudy.
 
 ### 공부내용
 1. 프로젝트 환경설정
